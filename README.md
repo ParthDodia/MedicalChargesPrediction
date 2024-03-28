@@ -1,12 +1,11 @@
 # MedicalChargesPrediction
 
-**Project Title:** Predicting Medical Charges with Regression Analysis in PySpark
-
 **Project Description:**
 
 Embarking on a data-driven journey, I employed PySpark to predict medical charges based on various influencing factors. Leveraging regression analysis techniques, I sought to develop models capable of estimating charges, crucial for healthcare planning and resource allocation.
 
 **Objective:**
+
 The primary objective of this project was to utilize PySpark for regression analysis to predict medical charges accurately. By exploring different regression algorithms, including Linear Regression, Decision Trees, Random Forest, and Gradient Boosting, I aimed to construct models that closely approximate the actual charges based on available data.
 
 **Methodology:**
