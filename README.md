@@ -1,4 +1,4 @@
-# MedicalChargesPrediction
+# Medical Charges Prediction
 
 **Project Description:**
 
